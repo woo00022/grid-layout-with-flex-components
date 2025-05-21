@@ -35,3 +35,14 @@ body {
     grid-template-rows: repeat(2, 1fr);
     grid-gap: 1em;
 }
+
+.emoji {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.icon {
+    order: -1;
+    text-align: center;
+}
