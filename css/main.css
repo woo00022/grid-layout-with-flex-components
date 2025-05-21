@@ -1,6 +1,6 @@
-Here are the base CSS styles to start with.
+/* Here are the base CSS styles to start with. */
 
-```css
+/* -- Given CSS -- */
 body {
   font-family: Arial, Helvetica, sans-serif;
   color: #222;
@@ -28,4 +28,4 @@ body {
 .icon {
   font-size: 4rem;
 }
-```
+/* -- End of Given Css -- */
