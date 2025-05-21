@@ -28,6 +28,7 @@ body {
 }
 /* -- End of Given Css -- */
 
+/* Displays boxes in quarters with grid */
 .emojis {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
