@@ -1,6 +1,4 @@
-/* Here are the base CSS styles to start with. */
-
-/* -- Given CSS -- */
+/* -- Given CSS (copied over from README.md) -- */
 body {
   font-family: Arial, Helvetica, sans-serif;
   color: #222;
@@ -29,3 +27,9 @@ body {
   font-size: 4rem;
 }
 /* -- End of Given Css -- */
+
+.emojis {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
