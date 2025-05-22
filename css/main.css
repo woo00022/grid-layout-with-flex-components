@@ -36,12 +36,14 @@ body {
     grid-gap: 1em;
 }
 
+/* Adds space between elements in card, pushes button to end of card */
 .emoji {
     display: flex;
     flex-direction: column;
-    align-content: center;
+    justify-content: space-between;
 }
 
+/* Displays emoji first on card, and aligns emoji center */
 .icon {
     order: -1;
     text-align: center;
